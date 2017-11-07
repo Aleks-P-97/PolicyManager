@@ -722,8 +722,6 @@ public class PolicyManager
                 averages[5] = avgNumItems;
             }
         }
-        
-        
     }
     
     
